@@ -10,3 +10,7 @@ Cd(Continuous Delivery): After CI approved code is devloped to test enviorment a
 -> Pay as you go service 
 4 Difference between git and Github 
 Git is a Distributed version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories.
+4 git Stages
+-> Working Directory 
+-> Staging Area
+-> Local Repo
